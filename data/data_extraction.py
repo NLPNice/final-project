@@ -67,6 +67,3 @@ for f in files:
 out_descr_df.to_csv("out_descr.csv")
 out_claim_df.to_csv("out_claim.csv")
 out_title_df.to_csv("out_title.csv")
-
-
-
