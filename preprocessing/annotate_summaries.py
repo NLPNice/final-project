@@ -1,6 +1,6 @@
 import json
 
-with open('title.json') as f:
+with open('titles.json') as f:
     titles = json.load(f)
 
 d = dict()
